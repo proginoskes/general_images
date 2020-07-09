@@ -1,8 +1,8 @@
-{"nodes":
-			  {"word":
+{"noeds":
+			  {"wrd":
 				  {
-					  "field_segment":["seg1; seg2; seg3; seg4; seg5; seg6; seg7"],
-					  "field_gloss":["this is a sentence"]
+					  "fld_sgmnt":["seg1; seg2; seg3; seg4; seg5; seg6; seg7"],
+					  "fld_glss":["this is a sentence"]
 				  }
 			  }
 		  }
